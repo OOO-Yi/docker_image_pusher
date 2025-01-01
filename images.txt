@@ -1,1 +1,1 @@
-redis:latest
+open-webui:main
