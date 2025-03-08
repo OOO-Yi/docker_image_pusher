@@ -1,1 +1,1 @@
-tomcat:8.5-jdk8-corretto
+oliver006/redis_exporter:latest
