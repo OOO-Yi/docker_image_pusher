@@ -1,1 +1,1 @@
-ghcr.io/facebookresearch/faiss:latest
+centos:7.9
