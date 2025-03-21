@@ -1,3 +1,2 @@
-langgenius/dify-api:1.1.1
-langgenius/dify-web:1.1.1
-langgenius/dify-plugin-daemon:0.0.6-loca
+langgenius/dify-plugin-daemon:0.0.6-local
+opengauss/opengauss:7.0.0-RC1
