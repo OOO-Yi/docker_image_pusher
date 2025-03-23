@@ -1,1 +1,4 @@
-pingcap/tidb:v8.4.0
+famousmai/dify-plus-api:0.0.6
+famousmai/dify-plus-web:0.0.6
+famousmai/dify-plus-admin-web:0.0.6
+famousmai/dify-plus-admin-server:0.0.6
