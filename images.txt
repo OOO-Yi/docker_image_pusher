@@ -1,2 +1,2 @@
-dify-api:1.1.2
-dify-web:1.1.2
+langgenius/dify-api:1.1.2
+langgenius/dify-web:1.1.2
