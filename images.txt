@@ -1,1 +1,1 @@
-searxng/searxng
+docker.io/istio/pilot:1.24.4
