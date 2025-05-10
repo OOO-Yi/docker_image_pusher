@@ -1,1 +1,2 @@
-docker.io/jenkins/jenkins:2.426.3
+docker.io/jenkins/jenkins:latest
+
