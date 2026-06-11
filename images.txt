@@ -1,1 +1,1 @@
-nginx
+paddlepaddle/paddleocr:latest
