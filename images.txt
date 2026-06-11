@@ -1,1 +1,1 @@
-paddlepaddle/paddle:3.0.0
+paddlecloud/paddleocr:2.6-cpu-latest
