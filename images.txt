@@ -1,1 +1,1 @@
-paddlepaddle/paddleocr:latest
+paddlepaddle/paddle:3.0.0
