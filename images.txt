@@ -1,1 +1,1 @@
-paddlecloud/paddleocr:2.6-cpu-latest
+nvidia/cuda:12.2.0-base-ubuntu22.04
